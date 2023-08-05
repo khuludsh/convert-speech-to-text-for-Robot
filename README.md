@@ -5,5 +5,6 @@ In this task, I develop a web page in HTML and javascript code to recognize the 
 
 https://github.com/khuludsh/convert-speech-to-text-for-Robot/assets/140037879/54ded7da-b0c0-4826-bfb2-0c75128727a5
 
-After that, I wrote PHP code for sending the results to database and which will store every word 
-
+After that, I wrote PHP code for sending the results to the database and which will store every word 
+like this 
+![speechdb](https://github.com/khuludsh/convert-speech-to-text-for-Robot/assets/140037879/a33a25ac-9903-4a9a-a4dc-8ca64f49d03b)
